@@ -2,9 +2,9 @@
 
 
 
-Autor: Milton Darío Rodríguez Ortega
+Autor: Milton Dario Rodriguez Ortega
 
 
 
-Práctica guiada de Docker Compose, Traefik, Redis, MailHog, Portainer y Ansible.
+Practica guiada de Docker Compose, Traefik, Redis, MailHog, Portainer y Ansible.
 
